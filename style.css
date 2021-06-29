@@ -1,0 +1,16 @@
+img {
+    top: 0px;
+    z-index: 0;
+    position: absolute;
+}
+
+.desc {
+    width: 60%;
+    z-index: 1;
+    position: relative;
+    text-align: right;
+    font-weight: bold;
+    background-color: white;
+    float: right;
+    padding: 20px 10px;
+}
